@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="gb2312" standalone="yes"?>
+<FreeCarsServer>
+  <command>
+    <control lock="false" />
+  </command>
+  <popup>
+    <FreeCars团队 url="http://freecars.taobao.com">感谢小伙伴们支持FreeCars</FreeCars团队>
+    <FreeCars电子科技 url="http://freecars.taobao.com">多多精品等你拿</FreeCars电子科技>
+  </popup>
+  <camera>
+    <show name="摄像头效果展示" url="" />
+    <MK60 name="FreeCars_CAM_历程_MK60DN512" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <CF name="FreeCars_CAM_历程_ColdFire" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <XS128 name="FreeCars_CAM_历程_MC9sXS128" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+  </camera>
+  <ccd>
+    <show name="CCD效果展示" url="" />
+    <MK60 name="FreeCars_CCD_历程_MK60DN512" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <CF name="FreeCars_CCD_历程_ColdFire" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <XS128 name="FreeCars_CCD_历程_MC9sXS128" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+  </ccd>
+  <mag>
+    <show name="电磁组效果展示" url="" />
+    <MK60 name="FreeCars_MAG_历程_MK60DN512" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <CF name="FreeCars_MAG_历程_ColdFire" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <XS128 name="FreeCars_MAG_历程_MC9sXS128" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+  </mag>
+  <product>
+    <product1 name="飞思卡尔智能车 电源模块 线性稳压电源 3路输出" url="http://www.baidu.com" />
+	<product1 name="飞思卡尔智能车 电源模块 线性稳压电源 4路输出" url="http://www.baidu1.com" />
+	<product1 name="飞思卡尔智能车 电源模块 线性稳压电源 5路输出" url="http://www.baidu2.com" />
+  </product>
+  <softAndDocument>
+    <soft version="2.0" name="FreeCars上位机" url="http://FreeCars.github.io/FreeCars2.0.exe" />
+    <document name="FreeCars上位机帮助文档" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+  </softAndDocument>
+</FreeCarsServer>
