@@ -1,37 +1,65 @@
 <?xml version="1.0" encoding="gb2312" standalone="yes"?>
 <FreeCarsServer>
   <command>
-    <control lock="false" />
+    <control lockScope="true" />
   </command>
   <popup>
-    <FreeCars团队 url="http://freecars.taobao.com">感谢小伙伴们支持FreeCars</FreeCars团队>
-    <FreeCars电子科技 url="http://freecars.taobao.com">多多精品等你拿</FreeCars电子科技>
+    <FreeCars团队 url="http://freecars.taobao.com">感谢小伙伴们支持FreeCars,快快去选购我们的产品吧，惊喜多多哦！</FreeCars团队>
   </popup>
+  <VisualScope>
+    <MK60 name="示波器例程_MK60DN512" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+	<CF name="示波器例程_ColdFire" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+	<XS128 name="示波器例程_MC9sXS128" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+	<STM32 name="示波器例程_stm32f407" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+  </VisualScope>
   <camera>
     <show name="摄像头效果展示" url="" />
-    <MK60 name="FreeCars_CAM_历程_MK60DN512" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-    <CF name="FreeCars_CAM_历程_ColdFire" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-    <XS128 name="FreeCars_CAM_历程_MC9sXS128" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <MK60 name="FreeCars_CAM_例程_MK60DN512" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <CF name="FreeCars_CAM_例程_ColdFire" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <XS128 name="FreeCars_CAM_例程_MC9sXS128" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
   </camera>
   <ccd>
     <show name="CCD效果展示" url="" />
-    <MK60 name="FreeCars_CCD_历程_MK60DN512" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-    <CF name="FreeCars_CCD_历程_ColdFire" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-    <XS128 name="FreeCars_CCD_历程_MC9sXS128" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <MK60 name="FreeCars_CCD_例程_MK60DN512" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <CF name="FreeCars_CCD_例程_ColdFire" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <XS128 name="FreeCars_CCD_例程_MC9sXS128" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
   </ccd>
   <mag>
     <show name="电磁组效果展示" url="" />
-    <MK60 name="FreeCars_MAG_历程_MK60DN512" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-    <CF name="FreeCars_MAG_历程_ColdFire" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-    <XS128 name="FreeCars_MAG_历程_MC9sXS128" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <MK60 name="FreeCars_MAG_例程_MK60DN512" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <CF name="FreeCars_MAG_例程_ColdFire" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <XS128 name="FreeCars_MAG_例程_MC9sXS128" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
   </mag>
   <product>
-    <product1 name="飞思卡尔智能车 电源模块 线性稳压电源 3路输出" url="http://www.baidu.com" />
-	<product1 name="飞思卡尔智能车 电源模块 线性稳压电源 4路输出" url="http://www.baidu1.com" />
-	<product1 name="飞思卡尔智能车 电源模块 线性稳压电源 5路输出" url="http://www.baidu2.com" />
+    <product1 name="飞思卡尔智能车 ISee摄像头 更清、更宽、更远 送动态阈值代码" url="http://www.baidu.com" />
+	<product1 name="飞思卡尔智能车 无线视频传输设备 全新升级版 远程高清回传" url="http://www.baidu1.com" />
+	<product1 name="飞思卡尔智能车 电磁组零稳漂信号源 官方升级版 内嵌恒流源" url="http://www.baidu2.com" />
+	<product1 name="飞思卡尔智能车 B车变态电机驱动 150A电流 FreeCars倾情推出" url="http://www.baidu.com" />
+	<product1 name="飞思卡尔智能车 全淘宝最小MK60系统板 更迷你 更精致 更稳定" url="http://www.baidu.com" />
+	<product1 name="飞思卡尔智能车 3输出线性稳压模块 超大电流 就是稳定！" url="http://www.baidu.com" />
   </product>
   <softAndDocument>
     <soft version="2.0" name="FreeCars上位机" url="http://FreeCars.github.io/FreeCars2.0.exe" />
     <document name="FreeCars上位机帮助文档" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
   </softAndDocument>
+  <learnVedio>
+	  <vedio1 name="第一讲 认识FreeCars上位机"  url="http://freecars.taobao.com"/>
+	  <vedio2 name="第二讲 示波器数据传输协议" url="http://freecars.taobao.com"/>
+	  <vedio3 name="第三讲 示波器数据传输协议" url="http://freecars.taobao.com"/>
+	  <vedio4 name="第四讲 示波器数据传输协议" url="http://freecars.taobao.com"/>
+	  <vedio5 name="第五讲 示波器数据传输协议" url="http://freecars.taobao.com"/>
+	  <vedio6 name="第六讲 示波器数据传输协议" url="http://freecars.taobao.com"/>
+	  <more1 name="查看上位机全部教学视频"  url="http://www.baidu.com"/>
+	  <more2 name="查看上位机全部教学视频" url="http://www.baidu.com"/>
+	  <more3 name="查看上位机全部教学视频" url="http://www.baidu.com"/>
+  </learnVedio>
+  <welcomePageProducts>
+    <product1 name="精品蓝牙套装 无线上位机必备 还是49.9元" url="http://www.baidu.com" />
+	<product1 name="ISee摄像头 更清、更宽、更远 动态阈值代码" url="http://www.baidu.com" />
+	<product1 name="无线视频传输设备 全新升级版 远程高清回传" url="http://www.baidu.com" />
+	<product1 name="电磁组零稳漂信号源 官方升级版 内嵌恒流源" url="http://www.baidu.com" />
+	<product1 name="3输出线性稳压模块 超大电流 就是稳定！" url="http://www.baidu.com" />
+	<product1 name="B车变态电机驱动 150A电流 FreeCars倾情推出" url="http://www.baidu.com" />
+	<product1 name="全淘宝最小MK60系统板 更迷你 更精致 更稳定" url="http://www.baidu.com" />
+  </welcomePageProducts>
 </FreeCarsServer>
