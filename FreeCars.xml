@@ -6,42 +6,36 @@
   <popup>
     <FreeCars团队 url="http://freecars.taobao.com">感谢小伙伴们支持FreeCars,快快去选购我们的产品吧，惊喜多多哦！</FreeCars团队>
   </popup>
-  <VisualScope>
-    <MK60 name="示波器例程_MK60DN512" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-	<CF name="示波器例程_ColdFire" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-	<XS128 name="示波器例程_MC9sXS128" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-	<STM32 name="示波器例程_stm32f407" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-  </VisualScope>
-  <camera>
-    <show name="摄像头效果展示" url="" />
-    <MK60 name="FreeCars_CAM_例程_MK60DN512" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-    <CF name="FreeCars_CAM_例程_ColdFire" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-    <XS128 name="FreeCars_CAM_例程_MC9sXS128" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-  </camera>
-  <ccd>
-    <show name="CCD效果展示" url="" />
-    <MK60 name="FreeCars_CCD_例程_MK60DN512" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-    <CF name="FreeCars_CCD_例程_ColdFire" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-    <XS128 name="FreeCars_CCD_例程_MC9sXS128" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-  </ccd>
-  <mag>
-    <show name="电磁组效果展示" url="" />
-    <MK60 name="FreeCars_MAG_例程_MK60DN512" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-    <CF name="FreeCars_MAG_例程_ColdFire" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-    <XS128 name="FreeCars_MAG_例程_MC9sXS128" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
-  </mag>
-  <product>
-    <product1 name="飞思卡尔智能车 ISee摄像头 更清、更宽、更远 送动态阈值代码" url="http://www.baidu.com" />
-	<product1 name="飞思卡尔智能车 无线视频传输设备 全新升级版 远程高清回传" url="http://www.baidu1.com" />
-	<product1 name="飞思卡尔智能车 电磁组零稳漂信号源 官方升级版 内嵌恒流源" url="http://www.baidu2.com" />
-	<product1 name="飞思卡尔智能车 B车变态电机驱动 150A电流 FreeCars倾情推出" url="http://www.baidu.com" />
-	<product1 name="飞思卡尔智能车 全淘宝最小MK60系统板 更迷你 更精致 更稳定" url="http://www.baidu.com" />
-	<product1 name="飞思卡尔智能车 3输出线性稳压模块 超大电流 就是稳定！" url="http://www.baidu.com" />
-  </product>
   <softAndDocument>
     <soft version="2.0" name="FreeCars上位机" url="http://FreeCars.github.io/FreeCars2.0.exe" />
-    <document name="FreeCars上位机帮助文档" url="http://FreeCars.github.io/FreeCarsV1.3.3.exe" />
+    <document name="FreeCars上位机帮助文档" url="http://FreeCars.github.io/FreeCars上位机帮助文档.pdf" />
   </softAndDocument>
+  <VisualScope>
+    <MK60 name="示波器例程_MK60DN512" url="http://FreeCars.github.io/scope/FreeCars2.0_Scope_MK60.rar" />
+	<XS128 name="示波器例程_MC9sXS128" url="http://FreeCars.github.io/scope/FreeCars2.0_Scope_XS128.rar" />
+  </VisualScope>
+  <camera>
+    <MK60 name="FreeCars_串口图像采集_MK60DN512" url="http://FreeCars.github.io/cam/FreeCars2.0_Scope&ISee摄像头_MK60.rar" />
+    <XS128 name="FreeCars_串口图像采集_MC9sXS128" url="http://FreeCars.github.io/cam/FreeCars2.0_Scope&ISee摄像头_XS128.rar" />
+	<MK60 name="FreeCars_赛道模式_MK60DN512" url="http://FreeCars.github.io/cam/FreeCars2.0_Scope&赛道模式_MK60.rar" />
+    <XS128 name="FreeCars_赛道_MC9sXS128" url="http://FreeCars.github.io/cam/FreeCars2.0_Scope&赛道模式_XS128.rar" />
+  </camera>
+  <ccd>
+    <MK60 name="FreeCars_CCD_例程_MK60DN512" url="http://FreeCars.github.io/ccd/FreeCars2.0_Scope&CCD_MK60.rar" />
+    <XS128 name="FreeCars_CCD_例程_MC9sXS128" url="http://FreeCars.github.io/ccd/FreeCars2.0_Scope&CCD_XS128.rar" />
+  </ccd>
+  <mag>
+    <MK60 name="FreeCars_MAG_例程_MK60DN512" url="http://FreeCars.github.io/mag/FreeCars2.0_电磁_MK60.rar" />
+    <XS128 name="FreeCars_MAG_例程_MC9sXS128" url="http://FreeCars.github.io/mag/FreeCars2.0_电磁_XS128.rar" />
+  </mag>
+  <product>
+    <product1 name="飞思卡尔 OV7620 ISee摄像头 更清、更宽、更远 送动态阈值代码" url="http://item.taobao.com/item.htm?spm=a1z10.3.w4002-4627080070.40.5NvRqN&id=41924251964" />
+	<product1 name="飞思卡尔 摄像头组 无线视频传输设备 全新升级版 远程高清回传" url="http://item.taobao.com/item.htm?spm=a1z10.3.w4002-4627080070.19.5NvRqN&id=36934495870" />
+	<product1 name="飞思卡尔 电磁组零稳漂信号源 官方升级版 内嵌恒流源 仿真现场" url="http://item.taobao.com/item.htm?spm=a1z10.5.w4002-4627056184.71.NUHiSq&id=41786046205" />
+	<product1 name="飞思卡尔 B车变态电机驱动 150A电流 FreeCars倾情推出 模糊控制" url="http://item.taobao.com/item.htm?spm=a1z10.5.w4002-4627056184.74.NUHiSq&id=41987024384" />
+	<product1 name="飞思卡尔 全淘宝最小MK60系统板 更迷你 更精致 更稳定 送全套驱动" url="http://item.taobao.com/item.htm?spm=a1z10.3.w4002-4627080070.9.dy76gk&id=38604541273" />
+	<product1 name="飞思卡尔 3输出线性稳压模块 超大电流 一个模块解决所有供电问题！" url="http://item.taobao.com/item.htm?spm=a1z10.5.w4002-4627056184.15.3YBjpg&id=36366745672" />
+  </product>
   <learnVedio>
 	  <vedio1 name="第一讲 认识FreeCars上位机"  url="http://freecars.taobao.com"/>
 	  <vedio2 name="第二讲 示波器数据传输协议" url="http://freecars.taobao.com"/>
@@ -54,12 +48,12 @@
 	  <more3 name="查看上位机全部教学视频" url="http://www.baidu.com"/>
   </learnVedio>
   <welcomePageProducts>
-    <product1 name="精品蓝牙套装 无线上位机必备 还是49.9元" url="http://www.baidu.com" />
-	<product1 name="ISee摄像头 更清、更宽、更远 动态阈值代码" url="http://www.baidu.com" />
-	<product1 name="无线视频传输设备 全新升级版 远程高清回传" url="http://www.baidu.com" />
-	<product1 name="电磁组零稳漂信号源 官方升级版 内嵌恒流源" url="http://www.baidu.com" />
-	<product1 name="3输出线性稳压模块 超大电流 就是稳定！" url="http://www.baidu.com" />
-	<product1 name="B车变态电机驱动 150A电流 FreeCars倾情推出" url="http://www.baidu.com" />
-	<product1 name="全淘宝最小MK60系统板 更迷你 更精致 更稳定" url="http://www.baidu.com" />
+    <product1 name="精品蓝牙套装 无线上位机必备 还是49.9元" url="http://item.taobao.com/item.htm?spm=a1z10.1.w4004-9068592371.2.4Ru5dE&id=36363529809" />
+	<product1 name="ISee摄像头 更清、更宽、更远 动态阈值代码" url="http://item.taobao.com/item.htm?spm=a1z10.3.w4002-4627080070.40.mpxgdJ&id=41924251964" />
+	<product1 name="无线视频传输设备 全新升级版 远程高清回传" url="http://item.taobao.com/item.htm?spm=a1z10.3.w4002-4627080070.19.mpxgdJ&id=36934495870" />
+	<product1 name="电磁组零稳漂信号源 官方升级版 内嵌恒流源" url="http://item.taobao.com/item.htm?spm=a1z10.5.w4002-4627056184.71.sQ6BLr&id=41786046205" />
+	<product1 name="3输出线性稳压模块 超大电流 稳定系统！" url="http://item.taobao.com/item.htm?spm=a1z10.5.w4002-4627056184.38.sQ6BLr&id=36366745672" />
+	<product1 name="B车变态电机驱动 150A电流 FreeCars倾情推出" url="http://item.taobao.com/item.htm?spm=a1z10.5.w4002-4627056184.74.sQ6BLr&id=41987024384" />
+	<product1 name="全淘宝最小MK60系统板 更迷你 更精致 更稳定" url="http://item.taobao.com/item.htm?spm=a1z10.5.w4002-4627056184.44.sQ6BLr&id=38604541273" />
   </welcomePageProducts>
 </FreeCarsServer>
