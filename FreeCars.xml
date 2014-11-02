@@ -38,11 +38,11 @@
   </product>
   <learnVedio>
       <vedio1 name="FreeCars上位机宣传视频"  url="http://freecars.taobao.com"/>
-	  <vedio2 name="第一讲 认识FreeCars上位机"  url="http://freecars.taobao.com"/>
-	  <vedio3 name="第二讲 示波器数据传输协议" url="http://freecars.taobao.com"/>
-	  <vedio4 name="第三讲 示波器数据传输协议" url="http://freecars.taobao.com"/>
-	  <vedio5 name="第四讲 示波器数据传输协议" url="http://freecars.taobao.com"/>
-	  <vedio6 name="第五讲 示波器数据传输协议" url="http://freecars.taobao.com"/>
+	  <vedio2 name="第一讲 FreeCars上位机安装、注册、简介"  url="http://freecars.taobao.com"/>
+	  <vedio3 name="第二讲 示波器协议以及调参协议" url="http://freecars.taobao.com"/>
+	  <vedio4 name="第三讲 摄像头组串口图像协议" url="http://freecars.taobao.com"/>
+	  <vedio5 name="第五讲 CCD组串口图像协议" url="http://freecars.taobao.com"/>
+	  <vedio6 name="第六讲 电磁组电感模型设计" url="http://freecars.taobao.com"/>
 	  <more1 name="查看上位机全部教学视频"  url="http://FreeCars.GitHub.io"/>
 	  <more2 name="去FreeCars上位机官方网站" url="http://FreeCars.GitHub.io"/>
 	  <more3 name="去论坛分享使用心得" url="http://www.zncc.com"/>
