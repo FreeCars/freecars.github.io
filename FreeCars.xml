@@ -17,8 +17,6 @@
   <camera>
     <MK60 name="FreeCars_串口图像采集_MK60DN512" url="http://FreeCars.github.io/cam/FreeCars2.0_Scope和ISee摄像头_MK60.rar" />
     <XS128 name="FreeCars_串口图像采集_MC9sXS128" url="http://FreeCars.github.io/cam/FreeCars2.0_Scope和ISee摄像头_XS128.rar" />
-	<MK60 name="FreeCars_赛道模式_MK60DN512" url="http://FreeCars.github.io/cam/FreeCars2.0_Scope和赛道模式_MK60.rar" />
-    <XS128 name="FreeCars_赛道_MC9sXS128" url="http://FreeCars.github.io/cam/FreeCars2.0_Scope和赛道模式_XS128.rar" />
   </camera>
   <ccd>
     <MK60 name="FreeCars_CCD_例程_MK60DN512" url="http://FreeCars.github.io/ccd/FreeCars2.0_Scope和CCD_MK60.rar" />
