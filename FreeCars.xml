@@ -4,7 +4,7 @@
     <control lockScope="true" />
   </command>
   <popup>
-    <FreeCars团队 url="http://freecars.taobao.com">感谢小伙伴们支持FreeCars,快快去选购我们的产品吧，惊喜多多哦！</FreeCars团队>
+    <FreeCars团队 url="http://freecars.github.io">FreeCars2.0上位机XS128的示波器、CCD、电磁组例程已经上传到服务器，需要的小伙伴们可以下载了！我们感谢并欢迎您的支持！</FreeCars团队>
   </popup>
   <softAndDocument>
     <soft version="2.0" name="FreeCars上位机" url="http://FreeCars.github.io/FreeCars2.0.exe" />
