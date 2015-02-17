@@ -3,6 +3,7 @@
   <command>
     <control lockScope="true" />
   </command>
+  <FreeCarsSecurityCheck check="FreeCarsSecurityCheckOK"/>
   <popup>
     <FreeCars团队 url="http://freecars.github.io">FreeCars电子迷你编码器开始批量生产，样品测试性能卓越，达到15000转毫发无损！256,512两种精度随你挑选！    第十届裁判系统测试完毕，开始批量，计时、灯塔、比赛全攻略，完全兼容官方软件，期待您的使用！</FreeCars团队>
   </popup>
