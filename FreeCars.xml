@@ -26,13 +26,16 @@
   <mag>
     <MK60 name="FreeCars_MAG_例程_MK60DN512" url="http://FreeCars.github.io/mag/FreeCars2.0_电磁_MK60.rar" />
     <XS128 name="FreeCars_MAG_例程_MC9sXS128" url="http://FreeCars.github.io/mag/FreeCars2.0_电磁_XS128.rar" />
+	<MK60 name="FreeCars双电磁方案主从例程" url=""  />
+	<document name="FreeCars2.1双电磁补充文档" url=""/>
+	<MK60 name="鸳鸯分离式测距模块" url="" />
   </mag>
   <product>
     <product1 name="智能车 OV7620 ISee摄像头 轻巧迷你设计 送动态阈值代码" url="http://item.taobao.com/item.htm?spm=a1z10.3.w4002-4627080070.40.5NvRqN&amp;id=41924251964" />
 	<product1 name="带方向输出的迷你编码器 512线 新品热推 全面降价" url="http://item.taobao.com/item.htm?spm=a1z10.1-c.w5003-9208824762.6.ZzabmC&amp;id=43904360917" />
 	<product1 name="智能车 电磁组零稳漂信号源 官方升级版 内嵌恒流源 仿真现场" url="http://item.taobao.com/item.htm?spm=a1z10.5.w4002-4627056184.71.NUHiSq&amp;id=41786046205" />
 	<product1 name="智能车 B车变态电机驱动 150A电流 模糊控制 虐爆BTN7971" url="http://item.taobao.com/item.htm?spm=a1z10.5.w4002-4627056184.74.NUHiSq&amp;id=41987024384" />
-	<product1 name="智能车 全淘宝最小MK60系统板 更迷你 更精致 更稳定 送全套驱动" url="http://item.taobao.com/item.htm?spm=a1z10.3.w4002-4627080070.9.dy76gk&amp;id=38604541273" />
+	<product1 name="电磁组 分离式测距模块 鸳鸯测距模块 FreeCars双电磁方案必备" url="http://item.taobao.com/item.htm?spm=a1z10.1-c.w5003-9208824762.14.wXgqB7&amp;id=43852802532" />
 	<product1 name="智能车 3输出线性稳压模块 超大电流 一个模块解决所有供电问题！" url="http://item.taobao.com/item.htm?spm=a1z10.5.w4002-4627056184.15.3YBjpg&amp;id=36366745672" />
   </product>
   <learnVedio>
@@ -41,7 +44,7 @@
 	  <vedio3 name="第二讲 示波器协议以及调参协议" url="http://v.youku.com/v_show/id_XODIzMDk5NDYw.html?f=23048663"/>
 	  <vedio4 name="第三讲 摄像头组串口图像协议" url="http://v.youku.com/v_show/id_XODIzMjg3NDYw.html"/>
 	  <vedio5 name="第四讲 CCD组串口图像协议" url="http://v.youku.com/v_show/id_XODIzMjg5OTg4.html?f=23048663"/>
-	  <vedio6 name="第五讲 电磁组电感模型设计" url="http://v.youku.com/v_show/id_XODIzMjQ1MzE2.html?f=23048663"/>
+	  <vedio6 name="期末讲 手把手教你调示波器" url="http://v.youku.com/v_show/id_XODg4NDI2MDMy.html"/>
 	  <more1 name="查看上位机全部教学视频"  url="http://www.youku.com/playlist_show/id_23048663.html"/>
 	  <more2 name="去FreeCars上位机官方网站" url="http://FreeCars.GitHub.io"/>
 	  <more3 name="去论坛分享使用心得" url="http://www.znczz.com/space-uid-85624.html"/>
