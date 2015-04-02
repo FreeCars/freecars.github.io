@@ -8,12 +8,12 @@
     <FreeCars团队 url="http://freecars.github.io">FreeCars迷你编码器全面上市，三种规格，优惠多多，任你挑选！     采用FreeCars双电磁方案，通信、测距全部搞定，让控制变得更简单高效！</FreeCars团队>
   </popup>
   <softAndDocument>
-    <soft version="2.1" name="FreeCars上位机" url="http://FreeCars.github.io/FreeCars2.1.exe" />
-    <document name="FreeCars上位机帮助文档" url="http://FreeCars.github.io/FreeCars上位机帮助文档.pdf" />
+    <soft version="2.1" name="FreeCars上位机" url="http://FreeCars.github.io/FreeCars2.1.exe" /> 
+    <document name="FreeCars上位机帮助文档" url="http://FreeCars.github.io/FreeCars上位机帮助文档.pdf" /> 
   </softAndDocument>
-  <VisualScope>
+  <VisualScope> 
     <MK60 name="示波器例程_MK60DN512" url="http://FreeCars.github.io/scope/FreeCars2.0_Scope_MK60.rar" />
-	<XS128 name="示波器例程_MC9sXS128" url="http://FreeCars.github.io/scope/FreeCars2.0_Scope_XS128.rar" />
+	<XS128 name="示波器例程_MC9sXS128" url="http://FreeCars.github.io/scope/FreeCars2.0_Scope_XS128.rar" /> 
   </VisualScope>
   <camera>
     <MK60 name="FreeCars_串口图像采集_MK60DN512" url="http://FreeCars.github.io/cam/FreeCars2.0_Scope和ISee摄像头_MK60.rar" />
@@ -25,7 +25,7 @@
   </ccd>
   <mag>
     <MK60 name="FreeCars_MAG_例程_MK60DN512" url="http://FreeCars.github.io/mag/FreeCars2.0_电磁_MK60.rar" />
-    <XS128 name="FreeCars_MAG_例程_MC9sXS128" url="http://FreeCars.github.io/mag/FreeCars2.0_电磁_XS128.rar" />
+    <XS128 name="FreeCars_MAG_例程_MC9sXS128" url="http://FreeCars.github.io/mag/FreeCars2.0_电磁_XS128.rar" /> 
 	<MK60 name="FreeCars2.1双电磁方案例程_MK60" url="http://FreeCars.github.io/mag/FreeCars2.1双电磁方案例程_MK60.rar"  />
 	<document name="FreeCars2.1双电磁方案帮助文档" url="http://FreeCars.github.io/mag/FreeCars2.1双电磁方案帮助文档.pdf"/>
 	<document name="FreeCars电子电磁组鸳鸯测距模块使用说明" url="http://FreeCars.github.io/mag/IRchaoshengbo/FreeCars电子电磁组鸳鸯测距模块使用说明.pdf" />
