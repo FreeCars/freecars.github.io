@@ -5,8 +5,9 @@
   </command>
   <FreeCarsSecurityCheck check="FreeCarsSecurityCheckOK"/>
   <popup>
-    <鸳鸯V4 url="https://item.taobao.com/item.htm?spm=a1z10.1-c.w5003-9208824762.14.O7rIhh&amp;id=43852802532&amp;scene=taobao_shop">鸳鸯第四代测距模块 ，为第十一届摄像头双车定做的测距模块！</鸳鸯V4>
-	<FreeCars团队 url="http://freecars.github.io">FreeCars迷你编码器全面上市，三种规格，优惠多多，任你挑选！     采用FreeCars双电磁方案，通信、测距全部搞定，让控制变得更简单高效！</FreeCars团队>
+    <飞卡智能车 url="https://FreeCars.taobao.com">武汉飞卡智能车科技有限公司（原武汉众恒弘远科技有限公司）重组完毕，我们期待为广大同学提供更好更优质的服务！</飞卡智能车>
+    <鸳鸯V4 url="https://item.taobao.com/item.htm?spm=a1z10.1-c.w5003-9208824762.14.O7rIhh&amp;id=43852802532&amp;scene=taobao_shop">鸳鸯测距模块，第十届之神话！双车必备，鸳鸯V4，为第十一届摄像头双车定做的测距模块！</鸳鸯V4>
+	<FreeCars团队 url="http://freecars.github.io">FreeCars迷你编码器全面上市，三种规格，优惠多多，任你挑选！     采用FreeCars双车方案，通信、测距全部搞定，让控制变得更简单高效！</FreeCars团队>
   </popup>
   <softAndDocument>
     <soft version="2.1" name="FreeCars上位机" url="http://FreeCars.github.io/FreeCars2.1.exe" /> 
@@ -27,20 +28,19 @@
   <mag>
     <MK60 name="FreeCars_MAG_例程_MK60DN512" url="http://FreeCars.github.io/mag/FreeCars2.0_电磁_MK60.rar" />
     <XS128 name="FreeCars_MAG_例程_MC9sXS128" url="http://FreeCars.github.io/mag/FreeCars2.0_电磁_XS128.rar" /> 
-	<MK60 name="FreeCars2.1双电磁方案例程_MK60" url="http://FreeCars.github.io/mag/FreeCars2.1双电磁方案例程_MK60.rar"  />
+	<MK60 name="FreeCars2.1双车方案例程_MK60" url="http://FreeCars.github.io/mag/FreeCars2.1双车方案例程_MK60.rar"  />
 	<document name="FreeCars2.1双电磁方案帮助文档" url="http://FreeCars.github.io/mag/FreeCars2.1双电磁方案帮助文档.pdf"/>
-	<document name="FreeCars电子电磁组鸳鸯测距模块使用说明" url="http://FreeCars.github.io/mag/IRchaoshengbo/FreeCars电子电磁组鸳鸯测距模块使用说明.pdf" />
+	<document name="FreeCars电子双车鸳鸯测距模块使用说明" url="http://FreeCars.github.io/mag/IRchaoshengbo/FreeCars电子双车鸳鸯测距模块使用说明.pdf" />
 	<MK60 name="FreeCars鸳鸯测距MK60例程" url="http://FreeCars.github.io/mag/IRchaoshengbo/FreeCars鸳鸯测距MK60例程.rar" />
 	<XS128 name="FreeCars鸳鸯测距XS128例程" url="http://FreeCars.github.io/mag/IRchaoshengbo/FreeCars鸳鸯测距XS128例程.rar" /> 
 	<KL26 name="FreeCars鸳鸯测距KL26例程" url="http://FreeCars.github.io/mag/IRchaoshengbo/FreeCars鸳鸯测距KL26例程.rar"/> 
   </mag>
   <product>
-    <product1 name="鸳鸯V4 摄像头双车专用 第二套半价哦！" url="https://item.taobao.com/item.htm?spm=a1z10.1-c.w5003-9208824762.14.O7rIhh&amp;id=43852802532&amp;scene=taobao_shop" />
+    <product1 name="鸳鸯V4 第十届之神话 摄像头双车专用 第二套半价哦！" url="https://item.taobao.com/item.htm?spm=a1z10.1-c.w5003-9208824762.14.O7rIhh&amp;id=43852802532&amp;scene=taobao_shop" />
 	<product1 name="带方向输出的迷你编码器 512线 新品热推 全面降价" url="http://item.taobao.com/item.htm?spm=a1z10.1-c.w5003-9208824762.6.ZzabmC&amp;id=43904360917" />
 	<product1 name="智能车 OV7620 ISee摄像头 轻巧迷你设计 送动态阈值代码" url="http://item.taobao.com/item.htm?spm=a1z10.3.w4002-4627080070.40.5NvRqN&amp;id=41924251964" />
 	<product1 name="智能车 电磁组零稳漂信号源 官方升级版 内嵌恒流源 仿真现场" url="http://item.taobao.com/item.htm?spm=a1z10.5.w4002-4627056184.71.NUHiSq&amp;id=41786046205" />
 	<product1 name="智能车 B车变态电机驱动 150A电流 模糊控制 虐爆BTN7971" url="http://item.taobao.com/item.htm?spm=a1z10.5.w4002-4627056184.74.NUHiSq&amp;id=41987024384" />
-	<product1 name="电磁组 分离式测距模块 鸳鸯测距模块 FreeCars双电磁方案必备" url="http://item.taobao.com/item.htm?spm=a1z10.1-c.w5003-9208824762.14.wXgqB7&amp;id=43852802532" />
 	<product1 name="智能车 3输出线性稳压模块 超大电流 一个模块解决所有供电问题！" url="http://item.taobao.com/item.htm?spm=a1z10.5.w4002-4627056184.15.3YBjpg&amp;id=36366745672" />
   </product>
   <learnVedio>
