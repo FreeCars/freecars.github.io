@@ -10,7 +10,7 @@
 	<FreeCars团队 url="http://freecars.github.io">FreeCars迷你编码器全面上市，三种规格，优惠多多，任你挑选！     采用FreeCars双车方案，通信、测距全部搞定，让控制变得更简单高效！</FreeCars团队>
   </popup>
   <softAndDocument>
-    <soft version="2.2" name="FreeCars上位机" url="http://FreeCars.github.io/FreeCars2.2.exe" /> 
+    <soft version="2.1" name="FreeCars上位机" url="http://FreeCars.github.io/FreeCars2.1.exe" /> 
     <document name="FreeCars上位机帮助文档" url="http://FreeCars.github.io/FreeCars上位机帮助文档.pdf" /> 
   </softAndDocument>
   <VisualScope> 
