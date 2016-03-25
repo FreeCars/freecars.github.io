@@ -5,9 +5,8 @@
   </command>
   <FreeCarsSecurityCheck check="FreeCarsSecurityCheckOK"/>
   <popup>
-    <BUG修复 url="https://FreeCars.taobao.com">FreeCars2.1不能修改示波器通道数量的BUG已经修复，需要使用多于17通道的同学请更新上位机！</BUG修复>
     <最新双车方案 url="http://v.youku.com/v_show/id_XMTUxMDYwMjE2NA==.html">第十一届专用鸳鸯V5测距模块推出了！超车、测控轻而易举！</最新双车方案>
-	<FreeCars团队 url="http://freecars.github.io">FreeCars迷你编码器全面上市，三种规格，优惠多多，任你挑选！     采用FreeCars双车方案，通信、测距全部搞定，让控制变得更简单高效！</FreeCars团队>
+    <BUG修复 url="http://FreeCars.github.io/FreeCars2.1.exe">FreeCars2.1不能修改示波器通道数量的BUG已经修复，需要使用多于17通道的同学请更新上位机！</BUG修复>
   </popup>
   <softAndDocument>
     <soft version="2.1" name="FreeCars上位机" url="http://FreeCars.github.io/FreeCars2.1.exe" /> 
